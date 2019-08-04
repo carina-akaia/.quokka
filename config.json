@@ -1,0 +1,7 @@
+{
+  "pro": true,
+  "babel": true,
+  "plugins": [
+    "jsdom-quokka-plugin"
+  ]
+}
