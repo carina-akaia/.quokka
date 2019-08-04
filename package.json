@@ -1,10 +1,6 @@
 {
-  "name": "quokka-babel-import",
+  "name": "quokka-w-babel-root-import",
   "version": "1.0.0",
-  "description": "",
-  "author": "",
-  "license": "ISC",
-  "homepage": "https://github.com/wallabyjs/quokka-babel-import-sample#readme",
   "dependencies": {
     "@babel/plugin-proposal-do-expressions": "7.5.0",
     "@babel/plugin-proposal-export-default-from": "7.5.2",
@@ -12,7 +8,6 @@
     "@babel/plugin-proposal-pipeline-operator": "7.5.0",
     "@babel/register": "7.5.5",
     "babel-alias-quokka-plugin": "1.0.9",
-    "babel-cli": "^6.26.0",
     "babel-plugin-ramda": "2.0.0",
     "babel-plugin-root-import": "5.1.0",
     "babel-preset-react-app": "9.0.0",
